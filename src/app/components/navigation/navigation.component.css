@@ -1,0 +1,12 @@
+nav {
+    height: 100%;
+    background-color: yellow;
+    text-align: start;
+}
+
+h1 {
+    font-size: 3rem;
+}
+li {
+    font-size: 2rem;
+}
